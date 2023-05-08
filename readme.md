@@ -1,4 +1,4 @@
-##How to use
+## How to use
 
 The ***buildStateMachine*** function needs the following parameters:
 - An array of State instances
@@ -25,7 +25,7 @@ Run the following command to test the code
 
 ---
 
-###Answer to Modulo Three Exercise
+### Answer to Modulo Three Exercise
 
 You will find the answer to the advanced exercise on *main.test.ts*
 The description is **"Build a mod-three function and test it"**.
