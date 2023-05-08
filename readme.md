@@ -27,6 +27,6 @@ Run the following command to test the code
 
 ### Answer to Modulo Three Exercise
 
-You will find the answer to the advanced exercise on *main.test.ts*
+You will find the answer to the advanced exercise on *main.test.ts*.
 The description is **"Build a mod-three function and test it"**.
-The tests consist of building a state machine that implements the ‘mod-three’ procedure and test its results.
+The tests consist of building a state machine that implements the ‘mod-three’ finite state machine and test its results.
